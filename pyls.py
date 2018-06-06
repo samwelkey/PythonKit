@@ -48,4 +48,4 @@ print('Location: ' + path)
 listOfDir = os.listdir(path)
 
 for s in listOfDir:
-    list_file(path + s)
+    list_file(path + '/' + s)
