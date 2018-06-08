@@ -1,0 +1,17 @@
+python was conceived in the late 1980s and its implementation was started in December 1989 by Guido van Rossum at CWI in Amsterdam.
+python is a successor to the ABC programming language (itself inspired by SETL) capable of exception handling and interfacing with the Amoeba operating system.
+Van Rossum is python's principal author, and his continuing central role in deciding the direction of python is reflected in the title given to him by the python community, Benevolent Dictator for Life (BDFL).
+python is a multi-paradigm programming language.
+Rather than forcing programmers to adopt a particular style of programming, it permits several styles: object-oriented programming and structured programming are fully supported, and there are a number of language features which support functional programming and aspect-oriented programming (including metaprogramming and "by magic" methods).
+Many other paradigms are supported using extensions, such as pyDBC and Contracts for python which allow Design by Contract.
+Rather than requiring all desired functionality to be built into the language's core, python was designed to be highly extensible.
+New built-in modules can be easily written in C, C++ or Cython.
+python can also be used as an extension language for existing modules and applications that need a programmable interface.
+This design, a small core language with a large standard library with an easily extensible interpreter, was intended by Van Rossum from the very start because of his frustrations with ABC (which espoused the opposite mindset).
+An important goal of the python developers is making python fun to use.
+This is reflected in the origin of the name (based on the television series Monty python's Flying Circus), in the common practice of using Monty python references in example code, and in an occasionally playful approach to tutorials and reference materials.[24][25] For example, the metasyntactic variables often used in python literature are spam and eggs, instead of the traditional foo and bar.
+python is often used as a scripting language for web applications, e.g. via mod_wsgi for the Apache web server.
+With Web Server Gateway Interface, a standard API has been developed to facilitate these applications.
+Web application frameworks like Django, Pylons, TurboGears, web2py, Flask and Zope support developers in the design and maintenance of complex applications.
+Libraries like NumPy, SciPy and Matplotlib allow python to be used effectively in scientific computing.
+
