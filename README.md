@@ -1,2 +1,2 @@
 # PythonKit
-Here are some useful tools in Python.
+Some useful tools in Python.
