@@ -27,11 +27,11 @@ def search(lines, pattern, history=5):
 if __name__ == "__main__":
     with open('somefile.txt') as f:
         for line, prevlines in search(f, 'python', 5):
-            print('###start pline: ')
+            print('###start of previous line:')
             for pline in prevlines:
-                print('$')
+                print('#')
                 print(pline, end='')
-            print('###start line')
-            print(line,end='')
+            print('###start of new found line:')
+            print(line, end='')
             print('-'*20)
 
